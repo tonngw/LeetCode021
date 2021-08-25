@@ -41,3 +41,31 @@
 - [15. 三数之和](https://leetcode-cn.com/problems/3sum/) [题解](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-by-tonngw-cs4b/)
 - [18. 四数之和](https://leetcode-cn.com/problems/4sum/) [题解](https://leetcode-cn.com/problems/4sum/solution/18-si-shu-zhi-he-by-tonngw-fvqc/)
 
+## 字符串
+
+- [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) [题解](https://leetcode-cn.com/problems/reverse-string/solution/344-fan-zhuan-zi-fu-chuan-by-tonngw-y122/)
+- [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) [题解](https://leetcode-cn.com/problems/reverse-string-ii/solution/541-fan-zhuan-zi-fu-chuan-ii-by-tonngw-8iyn/)
+- [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) [题解](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/jian-zhi-offer-05-ti-huan-kong-ge-by-ton-wne9/)
+- [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) [题解](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/151-fan-zhuan-zi-fu-chuan-li-de-dan-ci-b-ifvu/)
+- [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) [题解](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/jian-zhi-offer-58-ii-zuo-xuan-zhuan-zi-f-pyjg/)
+- [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) [题解](https://leetcode-cn.com/problems/implement-strstr/solution/28-shi-xian-strstr-by-tonngw-i190/)
+- [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) [题解](https://leetcode-cn.com/problems/repeated-substring-pattern/solution/459-zhong-fu-de-zi-zi-fu-chuan-by-tonngw-durz/)
+
+## 双指针算法
+
+- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) [题解](https://leetcode-cn.com/problems/remove-element/solution/27-yi-chu-yuan-su-by-tonngw-6xwn/)
+- [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) [题解](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-you-xu-shu-zu-zhong-de-zhong-n4n7/)
+- [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) [题解](https://leetcode-cn.com/problems/move-zeroes/solution/283-yi-dong-ling-by-tonngw-x0zd/)
+- [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) [题解](https://leetcode-cn.com/problems/backspace-string-compare/solution/844-bi-jiao-han-tui-ge-de-zi-fu-chuan-by-rw53/)
+- [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) [题解](https://leetcode-cn.com/problems/squares-of-a-sorted-array/solution/977-you-xu-shu-zu-de-ping-fang-by-tonngw-r0ba/)
+- [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) [题解](https://leetcode-cn.com/problems/reverse-string-ii/solution/541-fan-zhuan-zi-fu-chuan-ii-by-tonngw-8iyn/)
+- [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) [题解](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/jian-zhi-offer-05-ti-huan-kong-ge-by-ton-wne9/)
+- [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) [题解](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/151-fan-zhuan-zi-fu-chuan-li-de-dan-ci-b-ifvu/)
+- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [题解](https://leetcode-cn.com/problems/reverse-linked-list/solution/206-fan-zhuan-lian-biao-by-tonngw-brl7/)
+- [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) [题解](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c2s0/)
+- [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) [题解](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/solution/si-lu-qing-xi-dai-ma-jian-ji-de-xie-fa-m-1pjx/)
+- [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) [题解](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/142-huan-xing-lian-biao-ii-by-tonngw-uem5/)
+- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) [题解](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-by-tonngw-2gsc/)
+- [15. 三数之和](https://leetcode-cn.com/problems/3sum/) [题解](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-by-tonngw-cs4b/)
+- [18. 四数之和](https://leetcode-cn.com/problems/4sum/) [题解](https://leetcode-cn.com/problems/4sum/solution/18-si-shu-zhi-he-by-tonngw-fvqc/)
+
