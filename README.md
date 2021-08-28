@@ -69,3 +69,13 @@
 - [15. 三数之和](https://leetcode-cn.com/problems/3sum/) [题解](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-by-tonngw-cs4b/)
 - [18. 四数之和](https://leetcode-cn.com/problems/4sum/) [题解](https://leetcode-cn.com/problems/4sum/solution/18-si-shu-zhi-he-by-tonngw-fvqc/)
 
+## 栈与队列
+
+- [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) [题解](https://leetcode-cn.com/problems/implement-queue-using-stacks/solution/232-yong-zhan-shi-xian-dui-lie-by-tonngw-4iv3/)
+- [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) [题解](https://leetcode-cn.com/problems/implement-stack-using-queues/solution/225-yong-dui-lie-shi-xian-zhan-by-tonngw-6be1/)
+- [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) [题解](https://leetcode-cn.com/problems/valid-parentheses/solution/si-lu-qing-xi-dai-ma-jian-ji-de-xie-fa-2-e83j/)
+- [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) [题解](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/solution/1047-shan-chu-zi-fu-chuan-zhong-de-suo-y-5ehq/)
+- [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) [题解](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/solution/150-ni-bo-lan-biao-da-shi-qiu-zhi-by-ton-586i/)
+- [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) [题解](https://leetcode-cn.com/problems/sliding-window-maximum/solution/239-hua-dong-chuang-kou-zui-da-zhi-by-to-aac7/)
+- [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) [题解](https://leetcode-cn.com/problems/top-k-frequent-elements/solution/347-qian-k-ge-gao-pin-yuan-su-by-tonngw-a12g/)
+
