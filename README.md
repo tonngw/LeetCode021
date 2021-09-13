@@ -79,3 +79,86 @@
 - [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) [题解](https://leetcode-cn.com/problems/sliding-window-maximum/solution/239-hua-dong-chuang-kou-zui-da-zhi-by-to-aac7/)
 - [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) [题解](https://leetcode-cn.com/problems/top-k-frequent-elements/solution/347-qian-k-ge-gao-pin-yuan-su-by-tonngw-a12g/)
 
+## 二叉树
+
+### 遍历二叉树
+
+- [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)「[题解](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/144-er-cha-shu-de-qian-xu-bian-li-by-ton-z9xb/)」
+- [589. N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)「[题解](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/solution/589-n-cha-shu-de-qian-xu-bian-li-by-tonn-pgfi/)」
+- [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)「[题解](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/145-er-cha-shu-de-hou-xu-bian-li-by-tonn-ngrt/)」
+- [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)「[题解](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/solution/590-n-cha-shu-de-hou-xu-bian-li-by-tonng-ipjo/)」
+- [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)「[题解](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/94-er-cha-shu-de-zhong-xu-bian-li-by-ton-6i82/)」
+- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)「[题解](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/102-er-cha-shu-de-ceng-xu-bian-li-by-ton-zt9s/)」
+- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)「[题解](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/102-er-cha-shu-de-ceng-xu-bian-li-by-ton-zt9s/)」
+- [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)「[题解](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/solution/107-er-cha-shu-de-ceng-xu-bian-li-ii-by-ea0gn/)」
+- [429. N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)「[题解](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/solution/429-n-cha-shu-de-ceng-xu-bian-li-by-tonn-2biu/)」
+- [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)「[题解](https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/199-er-cha-shu-de-you-shi-tu-by-tonngw-n6r4/)」
+- [637. 二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/)「[题解](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/solution/637-er-cha-shu-de-ceng-ping-jun-zhi-by-t-scuj/)」
+- [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)「[题解](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/solution/515-zai-mei-ge-shu-xing-zhong-zhao-zui-d-1ij2/)」
+- [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)「[题解](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/solution/116-tian-chong-mei-ge-jie-dian-de-xia-yi-968q/)」
+- [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)「[题解](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/solution/117-tian-chong-mei-ge-jie-dian-de-xia-yi-j1ap/)」
+
+### 求二叉树的属性
+
+- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)「[题解](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/104-er-cha-shu-de-zui-da-shen-du-by-tonn-zen4/)」
+- [559. N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)「[题解](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/solution/559-n-cha-shu-de-zui-da-shen-du-by-tonng-5mpk/)」
+
+- [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)「[题解](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/solution/111-er-cha-shu-de-zui-xiao-shen-du-by-to-o3dn/)」
+
+- [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)「[题解](https://leetcode-cn.com/problems/invert-binary-tree/solution/226-fan-zhuan-er-cha-shu-by-tonngw-8v8z/)」
+
+- [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)「[题解](https://leetcode-cn.com/problems/symmetric-tree/solution/101-dui-cheng-er-cha-shu-by-tonngw-zoj1/)」
+
+- [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)「[题解](https://leetcode-cn.com/problems/same-tree/solution/100-xiang-tong-de-shu-by-tonngw-d2nv/)」
+
+- [572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)「[题解](https://leetcode-cn.com/problems/subtree-of-another-tree/solution/572-ling-yi-ke-shu-de-zi-shu-by-tonngw-dn3q/)」
+
+- [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/)「[题解](https://leetcode-cn.com/problems/count-complete-tree-nodes/solution/222-wan-quan-er-cha-shu-de-jie-dian-ge-s-e4d9/)」
+
+- [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)「[题解](https://leetcode-cn.com/problems/balanced-binary-tree/solution/110-ping-heng-er-cha-shu-by-tonngw-gkhd/)」
+
+- [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)「[题解](https://leetcode-cn.com/problems/binary-tree-paths/solution/257-er-cha-shu-de-suo-you-lu-jing-by-ton-czh8/)」
+- [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)「[题解](https://leetcode-cn.com/problems/sum-of-left-leaves/solution/404-zuo-xie-zi-zhi-he-by-tonngw-r38j/)」
+
+- [513. 找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/)「[题解](https://leetcode-cn.com/problems/find-bottom-left-tree-value/solution/513-zhao-shu-zuo-xia-jiao-de-zhi-by-tonn-94nr/)」
+
+- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)「[题解](https://leetcode-cn.com/problems/path-sum/solution/112-lu-jing-zong-he-by-tonngw-b1bq/)」
+
+### 二叉树的修改与构造
+
+- [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)「[题解](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solution/105-cong-qian-xu-yu-zhong-xu-bian-li-xu-wgoxg/)」
+
+- [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)「[题解](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/solution/106-cong-zhong-xu-yu-hou-xu-bian-li-xu-l-790b/)」
+
+- [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)「[题解](https://leetcode-cn.com/problems/maximum-binary-tree/solution/654-zui-da-er-cha-shu-by-tonngw-vnyk/)」
+
+- [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)「[题解](https://leetcode-cn.com/problems/merge-two-binary-trees/solution/617-he-bing-er-cha-shu-by-tonngw-aizw/)」
+
+### 求二叉搜索树的属性
+
+- [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/solution/700-er-cha-sou-suo-shu-zhong-de-sou-suo-c4qo8/)」
+
+- [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/validate-binary-search-tree/solution/98-yan-zheng-er-cha-sou-suo-shu-by-tonng-nsg4/)」
+
+- [530. 二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)「[题解](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/solution/530-er-cha-sou-suo-shu-de-zui-xiao-jue-d-hnpi/)」
+
+- [501. 二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/solution/501-er-cha-sou-suo-shu-zhong-de-zhong-sh-wmcf/)」
+
+- [538. 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)「[题解](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/solution/538-ba-er-cha-sou-suo-shu-zhuan-huan-wei-kse8/)」
+
+### 二叉树公共祖先问题
+
+- [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)「[题解](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/236-er-cha-shu-de-zui-jin-gong-gong-zu-x-ok6d/)」
+
+- [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/235-er-cha-sou-suo-shu-de-zui-jin-gong-g-xjo0/)」 
+
+### 二叉搜索树的修改与构造
+
+- [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/solution/701-er-cha-sou-suo-shu-zhong-de-cha-ru-c-9zqv/)」
+
+- [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/)「[题解](https://leetcode-cn.com/problems/delete-node-in-a-bst/solution/450-shan-chu-er-cha-sou-suo-shu-zhong-de-ldqw/)」
+
+- [669. 修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/trim-a-binary-search-tree/solution/669-xiu-jian-er-cha-sou-suo-shu-by-tonng-a943/)」
+
+- [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/solution/108-jiang-you-xu-shu-zu-zhuan-huan-wei-e-ogu2/)」
+
