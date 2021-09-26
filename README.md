@@ -147,7 +147,7 @@
 
 - [77. 组合](https://leetcode-cn.com/problems/combinations/)「[题解](https://leetcode-cn.com/problems/combinations/solution/77-zu-he-by-tonngw-torm/)」
 - [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)「[题解](https://leetcode-cn.com/problems/combination-sum-iii/solution/216-zu-he-zong-he-iii-by-tonngw-mf64/)」
-- [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)[](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/17-dian-hua-hao-ma-de-zi-mu-zu-he-by-ton-fwvm/)」
+- [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)「[题解](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/17-dian-hua-hao-ma-de-zi-mu-zu-he-by-ton-fwvm/)」
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)「[题解](https://leetcode-cn.com/problems/combination-sum/solution/39-zu-he-zong-he-by-tonngw-oqyt/)」
 - [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)「[题解](https://leetcode-cn.com/problems/combination-sum-ii/solution/40-zu-he-zong-he-ii-by-tonngw-wesr/)」
 
@@ -166,8 +166,6 @@
 
 - [46. 全排列](https://leetcode-cn.com/problems/permutations/)「[题解](https://leetcode-cn.com/problems/permutations/solution/46-quan-pai-lie-by-tonngw-08i3/)」
 - [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)「[题解](https://leetcode-cn.com/problems/permutations-ii/solution/47-quan-pai-lie-ii-by-tonngw-in1s/)」
-- 
-
 ### 棋盘问题
 
 - [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)「[题解](https://leetcode-cn.com/problems/n-queens/solution/51-n-huang-hou-by-tonngw-rl3n/)」
