@@ -141,3 +141,40 @@
 - [669. 修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/trim-a-binary-search-tree/solution/669-xiu-jian-er-cha-sou-suo-shu-by-tonng-a943/)」
 - [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/solution/108-jiang-you-xu-shu-zu-zhuan-huan-wei-e-ogu2/)」
 
+## 回溯
+
+### 组合问题
+
+- [77. 组合](https://leetcode-cn.com/problems/combinations/)「[题解](https://leetcode-cn.com/problems/combinations/solution/77-zu-he-by-tonngw-torm/)」
+- [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)「[题解](https://leetcode-cn.com/problems/combination-sum-iii/solution/216-zu-he-zong-he-iii-by-tonngw-mf64/)」
+- [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)[](https://leetcode-cn.com/problems/trim-a-binary-search-tree/)「[题解](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/17-dian-hua-hao-ma-de-zi-mu-zu-he-by-ton-fwvm/)」
+- [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)「[题解](https://leetcode-cn.com/problems/combination-sum/solution/39-zu-he-zong-he-by-tonngw-oqyt/)」
+- [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)「[题解](https://leetcode-cn.com/problems/combination-sum-ii/solution/40-zu-he-zong-he-ii-by-tonngw-wesr/)」
+
+### 分割问题
+
+- [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)「[题解](https://leetcode-cn.com/problems/palindrome-partitioning/solution/131-fen-ge-hui-wen-chuan-by-tonngw-yfro/)」
+- [93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/)「[题解](https://leetcode-cn.com/problems/restore-ip-addresses/solution/93-fu-yuan-ip-di-zhi-by-tonngw-61ni/)」
+
+### 子集问题
+
+- [78. 子集](https://leetcode-cn.com/problems/subsets/)「[题解](https://leetcode-cn.com/problems/subsets/solution/78-zi-ji-by-tonngw-bhjq/)」
+- [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)「[题解](https://leetcode-cn.com/problems/subsets-ii/solution/90-zi-ji-ii-by-tonngw-j0e3/)」
+- [491. 递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/)「[题解](https://leetcode-cn.com/problems/increasing-subsequences/solution/491-di-zeng-zi-xu-lie-by-tonngw-s1rh/)」
+
+### 排列问题
+
+- [46. 全排列](https://leetcode-cn.com/problems/permutations/)「[题解](https://leetcode-cn.com/problems/permutations/solution/46-quan-pai-lie-by-tonngw-08i3/)」
+- [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)「[题解](https://leetcode-cn.com/problems/permutations-ii/solution/47-quan-pai-lie-ii-by-tonngw-in1s/)」
+- 
+
+### 棋盘问题
+
+- [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)「[题解](https://leetcode-cn.com/problems/n-queens/solution/51-n-huang-hou-by-tonngw-rl3n/)」
+- [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)「[题解](https://leetcode-cn.com/problems/n-queens-ii/solution/52-nhuang-hou-ii-by-tonngw-y2b8/)」
+- [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/)「[题解](https://leetcode-cn.com/problems/sudoku-solver/solution/37-jie-shu-du-by-tonngw-5zqf/)」
+
+### 其他
+
+- [332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)「[题解](https://leetcode-cn.com/problems/reconstruct-itinerary/solution/332-zhong-xin-an-pai-xing-cheng-by-tonng-fody/)」
+
