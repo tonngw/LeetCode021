@@ -166,7 +166,6 @@
 
 - [46. 全排列](https://leetcode-cn.com/problems/permutations/)「[题解](https://leetcode-cn.com/problems/permutations/solution/46-quan-pai-lie-by-tonngw-08i3/)」
 - [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)「[题解](https://leetcode-cn.com/problems/permutations-ii/solution/47-quan-pai-lie-ii-by-tonngw-in1s/)」
-- 
 
 ### 棋盘问题
 
@@ -177,4 +176,3 @@
 ### 其他
 
 - [332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)「[题解](https://leetcode-cn.com/problems/reconstruct-itinerary/solution/332-zhong-xin-an-pai-xing-cheng-by-tonng-fody/)」
-
