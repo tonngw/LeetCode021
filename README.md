@@ -176,3 +176,40 @@
 
 - [332. 重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/)「[题解](https://leetcode-cn.com/problems/reconstruct-itinerary/solution/332-zhong-xin-an-pai-xing-cheng-by-tonng-fody/)」
 
+## 贪心算法
+
+### 简单贪心
+
+- [455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)「[题解](https://leetcode-cn.com/problems/assign-cookies/solution/455-fen-fa-bing-gan-by-tonngw-4nmz/)」
+- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)「[题解](https://leetcode-cn.com/problems/maximum-subarray/solution/53-zui-da-zi-xu-he-by-tonngw-9jx5/)」
+- [1005. K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/)「[题解](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/solution/1005-k-ci-qu-fan-hou-zui-da-hua-de-shu-z-y87w/)」
+- [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)「[题解](https://leetcode-cn.com/problems/lemonade-change/solution/mo-ni-tan-xin-860-ning-meng-shui-zhao-li-mf63/)」
+
+### 中等贪心
+
+- [376. 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)「[题解](https://leetcode-cn.com/problems/wiggle-subsequence/solution/tan-xin-suan-fa-fu-zheng-ming-376-bai-do-3ga9/)」
+- [738. 单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/)「[题解](https://leetcode-cn.com/problems/monotone-increasing-digits/solution/tan-xin-miao-dong-738-dan-diao-di-zeng-d-89m9/)」
+
+### 股票问题
+
+- [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/solution/si-lu-qing-xi-dai-ma-jian-ji-de-ti-jie-1-xlap/)」
+
+- [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solution/714-mai-mai-gu-piao-de-zui-jia-shi-ji-ha-qen5/)」
+
+### 两个维护度权衡问题
+
+- [135. 分发糖果](https://leetcode-cn.com/problems/candy/)「[题解](https://leetcode-cn.com/problems/candy/solution/135-fen-fa-tang-guo-by-tonngw-f5pq/)」
+- [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)「[题解](https://leetcode-cn.com/problems/queue-reconstruction-by-height/solution/406-gen-ju-shen-gao-zhong-jian-dui-lie-b-08mz/)」
+
+### 区间问题
+
+- [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)「[题解](https://leetcode-cn.com/problems/jump-game/solution/55-tiao-yue-you-xi-by-tonngw-ec5n/)」
+- [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)「[题解](https://leetcode-cn.com/problems/jump-game-ii/solution/45-tiao-yue-you-xi-ii-by-tonngw-ih55/)」
+- [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)「[题解](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/452-yong-zui-shao-shu-liang-de-jian-yin-ou0nn/)」
+- [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)「[题解](https://leetcode-cn.com/problems/non-overlapping-intervals/solution/435-wu-zhong-die-qu-jian-by-tonngw-2q04/)」
+- [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/)「[题解](https://leetcode-cn.com/problems/partition-labels/solution/763-hua-fen-zi-mu-qu-jian-by-tonngw-rt1i/)」
+- [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/)「[题解](https://leetcode-cn.com/problems/merge-intervals/solution/tong-su-yi-dong-xiang-jie-tan-xin-jing-d-ielv/)」
+
+### 其他
+
+- [134. 加油站](https://leetcode-cn.com/problems/gas-station/)「[题解](https://leetcode-cn.com/problems/gas-station/solution/134-jia-you-zhan-by-tonngw-28hj/)」
