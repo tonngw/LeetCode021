@@ -1,13 +1,22 @@
 # LeetCode From Zero To One
 
+该仓库是自己整理的一个题单和题解列表，题单来自 [代码随想录](https://programmercarl.com/)，推荐大家先去网站一刷，此列表主要是为了方便二刷和三刷的小伙伴们，省去在页面里回来切换页面的麻烦，同时每道题目后面附带了我在学习时记录的题解，最后如果对大家有帮助不要忘记给个 Star 吖，谢谢！
+
+仓库说明：
+
+1. 题解中的代码实现语言是 C++，尽量保证每道题目使用最优的写法。
+2. 题解是自己学习过程中认真写的，并非搬运，主要记录题目的核心实现步骤。
+
+TODO：之后可能还会更新 HOT 100、牛客网面试必刷 TOP 101 等题单
+
 ## 数组
 
 - [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) 「[题解](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-tonngw-nk9o/)」
 - [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) 「[题解](https://leetcode-cn.com/problems/search-insert-position/solution/35-sou-suo-cha-ru-wei-zhi-by-tonngw-srqu/)」
 - [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) 「[题解](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/34-zai-pai-xu-shu-zu-zhong-cha-zhao-yuan-mm3f/)」
-- [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/) [题解](https://leetcode-cn.com/problems/sqrtx/solution/69-x-de-ping-fang-gen-by-tonngw-p82h/)
+- [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/) 「[题解](https://leetcode-cn.com/problems/sqrtx/solution/69-x-de-ping-fang-gen-by-tonngw-p82h/)」
 - [367. 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) 「[题解](https://leetcode-cn.com/problems/valid-perfect-square/solution/367-you-xiao-de-wan-quan-ping-fang-shu-b-bs6i/)」
-- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) [题解](https://leetcode-cn.com/problems/remove-element/solution/27-yi-chu-yuan-su-by-tonngw-6xwn/)
+- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) 「[题解](https://leetcode-cn.com/problems/remove-element/solution/27-yi-chu-yuan-su-by-tonngw-6xwn/)」
 - [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) 「[题解](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-you-xu-shu-zu-zhong-de-zhong-n4n7/)」
 - [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) 「[题解](https://leetcode-cn.com/problems/move-zeroes/solution/283-yi-dong-ling-by-tonngw-x0zd/)」
 - [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) 「[题解](https://leetcode-cn.com/problems/backspace-string-compare/solution/844-bi-jiao-han-tui-ge-de-zi-fu-chuan-by-rw53/)」
@@ -193,7 +202,6 @@
 ### 股票问题
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/solution/si-lu-qing-xi-dai-ma-jian-ji-de-ti-jie-1-xlap/)」
-
 - [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solution/714-mai-mai-gu-piao-de-zui-jia-shi-ji-ha-qen5/)」
 
 ### 两个维护度权衡问题
@@ -219,16 +227,11 @@
 ### 动态规划基础
 
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) 「[题解](https://leetcode-cn.com/problems/fibonacci-number/solution/509-fei-bo-na-qi-shu-by-tonngw-56bq/)」
-
 - [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) 「[题解](https://leetcode-cn.com/problems/climbing-stairs/solution/70-pa-lou-ti-wan-quan-bei-bao-fei-bo-na-p7wwt/)」
-
 - [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) 「[题解](https://leetcode-cn.com/problems/min-cost-climbing-stairs/solution/746-shi-yong-zui-xiao-hua-fei-pa-lou-ti-mf1mi/)」
 - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)「[题解](https://leetcode-cn.com/problems/unique-paths/solution/62-bu-tong-lu-jing-by-tonngw-fczx/)」
-
 - [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)「[题解](https://leetcode-cn.com/problems/unique-paths-ii/solution/63-bu-tong-lu-jing-ii-by-tonngw-tc06/)」
-
 - [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)「[题解](https://leetcode-cn.com/problems/integer-break/solution/343-zheng-shu-chai-fen-by-tonngw-jped/)」
-
 - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)「[题解](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/dong-tai-gui-hua-xiang-jie-96-bu-tong-de-uvf4/)」
 
 ### 背包问题
@@ -252,7 +255,6 @@
 ### 股票系列问题
 
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/by-tonngw-ky6p/)」
-
 - [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/solution/123-mai-mai-gu-piao-de-zui-jia-shi-ji-ii-q6vh/)」
 - [188. 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/solution/zhuang-tai-ji-dpxiang-jie-188-mai-mai-gu-po3i/)」
 - [09. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/zhuang-tai-ji-dp-309-zui-jia-mai-mai-gu-dylw4/)」
@@ -286,10 +288,13 @@
 
 - [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)「[题解](https://leetcode-cn.com/problems/sliding-window-maximum/solution/239-hua-dong-chuang-kou-zui-da-zhi-by-to-aac7/)」
 - [918. 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)「[题解](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/solution/918-huan-xing-zi-shu-zu-de-zui-da-he-ton-9d7b/)」
-
 - [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)「[题解](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/by-tonngw-vu6h/)」
 - [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)「[题解](https://leetcode-cn.com/problems/minimum-window-substring/solution/hua-dong-chuang-kou-suan-fa-76-zui-xiao-3y39p/)」
 - [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)「[题解](https://leetcode-cn.com/problems/minimum-size-subarray-sum/solution/209-chang-du-zui-xiao-de-zi-shu-zu-by-to-3ryl/)」
 - [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)「[题解](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/438-zhao-dao-zi-fu-chuan-zhong-suo-you-z-q79l/)」
 - [904. 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)「[题解](https://leetcode-cn.com/problems/fruit-into-baskets/solution/904-shui-guo-cheng-lan-by-tonngw-yr8e/)」
 
+## 参考资料：
+
+- [代码随想录](https://programmercarl.com/)
+- [AcWing LeetCode 究极班](https://www.acwing.com/activity/content/31/)
