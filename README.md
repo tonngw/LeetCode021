@@ -2,82 +2,82 @@
 
 ## 数组
 
-- [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) [题解](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-tonngw-nk9o/)
-- [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) [题解](https://leetcode-cn.com/problems/search-insert-position/solution/35-sou-suo-cha-ru-wei-zhi-by-tonngw-srqu/)
-- [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [题解](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/34-zai-pai-xu-shu-zu-zhong-cha-zhao-yuan-mm3f/)
+- [704. 二分查找](https://leetcode-cn.com/problems/binary-search/) 「[题解](https://leetcode-cn.com/problems/binary-search/solution/704-er-fen-cha-zhao-by-tonngw-nk9o/)」
+- [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) 「[题解](https://leetcode-cn.com/problems/search-insert-position/solution/35-sou-suo-cha-ru-wei-zhi-by-tonngw-srqu/)」
+- [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) 「[题解](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/34-zai-pai-xu-shu-zu-zhong-cha-zhao-yuan-mm3f/)」
 - [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/) [题解](https://leetcode-cn.com/problems/sqrtx/solution/69-x-de-ping-fang-gen-by-tonngw-p82h/)
-- [367. 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) [题解](https://leetcode-cn.com/problems/valid-perfect-square/solution/367-you-xiao-de-wan-quan-ping-fang-shu-b-bs6i/)
+- [367. 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) 「[题解](https://leetcode-cn.com/problems/valid-perfect-square/solution/367-you-xiao-de-wan-quan-ping-fang-shu-b-bs6i/)」
 - [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) [题解](https://leetcode-cn.com/problems/remove-element/solution/27-yi-chu-yuan-su-by-tonngw-6xwn/)
-- [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) [题解](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-you-xu-shu-zu-zhong-de-zhong-n4n7/)
-- [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) [题解](https://leetcode-cn.com/problems/move-zeroes/solution/283-yi-dong-ling-by-tonngw-x0zd/)
-- [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) [题解](https://leetcode-cn.com/problems/backspace-string-compare/solution/844-bi-jiao-han-tui-ge-de-zi-fu-chuan-by-rw53/)
-- [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) [题解](https://leetcode-cn.com/problems/squares-of-a-sorted-array/solution/977-you-xu-shu-zu-de-ping-fang-by-tonngw-r0ba/)
-- [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) [题解](https://leetcode-cn.com/problems/minimum-size-subarray-sum/solution/209-chang-du-zui-xiao-de-zi-shu-zu-by-to-3ryl/)
-- [904. 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/) [题解](https://leetcode-cn.com/problems/fruit-into-baskets/solution/904-shui-guo-cheng-lan-by-tonngw-yr8e/)
-- [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) [题解](https://leetcode-cn.com/problems/spiral-matrix/solution/54-luo-xuan-ju-zhen-by-tonngw-q2a2/)
-- [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) [题解](https://leetcode-cn.com/problems/spiral-matrix-ii/solution/59-luo-xuan-ju-zhen-ii-by-tonngw-2cwa/)
+- [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) 「[题解](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-you-xu-shu-zu-zhong-de-zhong-n4n7/)」
+- [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) 「[题解](https://leetcode-cn.com/problems/move-zeroes/solution/283-yi-dong-ling-by-tonngw-x0zd/)」
+- [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) 「[题解](https://leetcode-cn.com/problems/backspace-string-compare/solution/844-bi-jiao-han-tui-ge-de-zi-fu-chuan-by-rw53/)」
+- [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) 「[题解](https://leetcode-cn.com/problems/squares-of-a-sorted-array/solution/977-you-xu-shu-zu-de-ping-fang-by-tonngw-r0ba/)」
+- [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) 「[题解](https://leetcode-cn.com/problems/minimum-size-subarray-sum/solution/209-chang-du-zui-xiao-de-zi-shu-zu-by-to-3ryl/)」
+- [904. 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/) 「[题解](https://leetcode-cn.com/problems/fruit-into-baskets/solution/904-shui-guo-cheng-lan-by-tonngw-yr8e/)」
+- [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) 「[题解](https://leetcode-cn.com/problems/spiral-matrix/solution/54-luo-xuan-ju-zhen-by-tonngw-q2a2/)」
+- [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) 「[题解](https://leetcode-cn.com/problems/spiral-matrix-ii/solution/59-luo-xuan-ju-zhen-ii-by-tonngw-2cwa/)」
 
 ## 链表
 
-- [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) [题解](https://leetcode-cn.com/problems/remove-linked-list-elements/solution/203-yi-chu-lian-biao-yuan-su-by-tonngw-q6xj/)
-- [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/) [题解](https://leetcode-cn.com/problems/design-linked-list/solution/707-she-ji-lian-biao-by-tonngw-1wq4/)
-- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [题解](https://leetcode-cn.com/problems/reverse-linked-list/solution/206-fan-zhuan-lian-biao-by-tonngw-brl7/)
-- [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) [题解](https://leetcode-cn.com/problems/swap-nodes-in-pairs/solution/24-liang-liang-jiao-huan-lian-biao-zhong-toyu/)
-- [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) [题解](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c2s0/)
-- [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) [题解](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/solution/si-lu-qing-xi-dai-ma-jian-ji-de-xie-fa-m-1pjx/)
-- [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) [题解](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/142-huan-xing-lian-biao-ii-by-tonngw-uem5/)
-- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) [题解](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-by-tonngw-2gsc/)
+- [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) 「[题解](https://leetcode-cn.com/problems/remove-linked-list-elements/solution/203-yi-chu-lian-biao-yuan-su-by-tonngw-q6xj/)」
+- [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/) 「[题解](https://leetcode-cn.com/problems/design-linked-list/solution/707-she-ji-lian-biao-by-tonngw-1wq4/)」
+- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) 「[题解](https://leetcode-cn.com/problems/reverse-linked-list/solution/206-fan-zhuan-lian-biao-by-tonngw-brl7/)」
+- [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) 「[题解](https://leetcode-cn.com/problems/swap-nodes-in-pairs/solution/24-liang-liang-jiao-huan-lian-biao-zhong-toyu/)」
+- [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) 「[题解](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c2s0/)」
+- [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) 「[题解](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/solution/si-lu-qing-xi-dai-ma-jian-ji-de-xie-fa-m-1pjx/)」
+- [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) 「[题解](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/142-huan-xing-lian-biao-ii-by-tonngw-uem5/)」
+- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) 「[题解](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-by-tonngw-2gsc/)」
 
 ## 哈希表
 
-- [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) [题解](https://leetcode-cn.com/problems/valid-anagram/solution/242-you-xiao-de-zi-mu-yi-wei-ci-by-tonng-hlcb/)
-- [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/) [题解](https://leetcode-cn.com/problems/ransom-note/solution/383-shu-jin-xin-by-tonngw-my3k/)
-- [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) [题解](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/438-zhao-dao-zi-fu-chuan-zhong-suo-you-z-q79l/)
-- [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) [题解](https://leetcode-cn.com/problems/intersection-of-two-arrays/solution/349-liang-ge-shu-zu-de-jiao-ji-by-tonngw-vuse/)
-- [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) [题解](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/solution/350-liang-ge-shu-zu-de-jiao-ji-ii-by-ton-dwfj/)
-- [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) [题解](https://leetcode-cn.com/problems/happy-number/solution/kuai-man-zhi-zhen-ha-xi-biao-shuang-jie-0f1tq/)
-- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) [题解](https://leetcode-cn.com/problems/two-sum/solution/1-liang-shu-zhi-he-by-tonngw-j0do/)
-- [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/) [题解](https://leetcode-cn.com/problems/4sum-ii/solution/454-si-shu-xiang-jia-ii-by-tonngw-zofb/)
-- [15. 三数之和](https://leetcode-cn.com/problems/3sum/) [题解](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-by-tonngw-cs4b/)
-- [18. 四数之和](https://leetcode-cn.com/problems/4sum/) [题解](https://leetcode-cn.com/problems/4sum/solution/18-si-shu-zhi-he-by-tonngw-fvqc/)
+- [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) 「[题解](https://leetcode-cn.com/problems/valid-anagram/solution/242-you-xiao-de-zi-mu-yi-wei-ci-by-tonng-hlcb/)」
+- [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/) 「[题解](https://leetcode-cn.com/problems/ransom-note/solution/383-shu-jin-xin-by-tonngw-my3k/)」
+- [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) 「[题解](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/438-zhao-dao-zi-fu-chuan-zhong-suo-you-z-q79l/)」
+- [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) 「[题解](https://leetcode-cn.com/problems/intersection-of-two-arrays/solution/349-liang-ge-shu-zu-de-jiao-ji-by-tonngw-vuse/)」
+- [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) 「[题解](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/solution/350-liang-ge-shu-zu-de-jiao-ji-ii-by-ton-dwfj/)」
+- [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) 「[题解](https://leetcode-cn.com/problems/happy-number/solution/kuai-man-zhi-zhen-ha-xi-biao-shuang-jie-0f1tq/)」
+- [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) 「[题解](https://leetcode-cn.com/problems/two-sum/solution/1-liang-shu-zhi-he-by-tonngw-j0do/)」
+- [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/) 「[题解](https://leetcode-cn.com/problems/4sum-ii/solution/454-si-shu-xiang-jia-ii-by-tonngw-zofb/)」
+- [15. 三数之和](https://leetcode-cn.com/problems/3sum/) 「[题解](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-by-tonngw-cs4b/)」
+- [18. 四数之和](https://leetcode-cn.com/problems/4sum/) 「[题解](https://leetcode-cn.com/problems/4sum/solution/18-si-shu-zhi-he-by-tonngw-fvqc/)」
 
 ## 字符串
 
-- [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) [题解](https://leetcode-cn.com/problems/reverse-string/solution/344-fan-zhuan-zi-fu-chuan-by-tonngw-y122/)
-- [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) [题解](https://leetcode-cn.com/problems/reverse-string-ii/solution/541-fan-zhuan-zi-fu-chuan-ii-by-tonngw-8iyn/)
-- [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) [题解](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/jian-zhi-offer-05-ti-huan-kong-ge-by-ton-wne9/)
-- [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) [题解](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/151-fan-zhuan-zi-fu-chuan-li-de-dan-ci-b-ifvu/)
-- [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) [题解](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/jian-zhi-offer-58-ii-zuo-xuan-zhuan-zi-f-pyjg/)
-- [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) [题解](https://leetcode-cn.com/problems/implement-strstr/solution/28-shi-xian-strstr-by-tonngw-i190/)
-- [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) [题解](https://leetcode-cn.com/problems/repeated-substring-pattern/solution/459-zhong-fu-de-zi-zi-fu-chuan-by-tonngw-durz/)
+- [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) 「[题解](https://leetcode-cn.com/problems/reverse-string/solution/344-fan-zhuan-zi-fu-chuan-by-tonngw-y122/)」
+- [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) 「[题解](https://leetcode-cn.com/problems/reverse-string-ii/solution/541-fan-zhuan-zi-fu-chuan-ii-by-tonngw-8iyn/)」
+- [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) 「[题解](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/jian-zhi-offer-05-ti-huan-kong-ge-by-ton-wne9/)」
+- [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) 「[题解](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/151-fan-zhuan-zi-fu-chuan-li-de-dan-ci-b-ifvu/)」
+- [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) 「[题解](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/solution/jian-zhi-offer-58-ii-zuo-xuan-zhuan-zi-f-pyjg/)」
+- [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) 「[题解](https://leetcode-cn.com/problems/implement-strstr/solution/28-shi-xian-strstr-by-tonngw-i190/)」
+- [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) 「[题解](https://leetcode-cn.com/problems/repeated-substring-pattern/solution/459-zhong-fu-de-zi-zi-fu-chuan-by-tonngw-durz/)」
 
 ## 双指针算法
 
-- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) [题解](https://leetcode-cn.com/problems/remove-element/solution/27-yi-chu-yuan-su-by-tonngw-6xwn/)
-- [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) [题解](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-you-xu-shu-zu-zhong-de-zhong-n4n7/)
-- [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) [题解](https://leetcode-cn.com/problems/move-zeroes/solution/283-yi-dong-ling-by-tonngw-x0zd/)
-- [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) [题解](https://leetcode-cn.com/problems/backspace-string-compare/solution/844-bi-jiao-han-tui-ge-de-zi-fu-chuan-by-rw53/)
-- [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) [题解](https://leetcode-cn.com/problems/squares-of-a-sorted-array/solution/977-you-xu-shu-zu-de-ping-fang-by-tonngw-r0ba/)
-- [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) [题解](https://leetcode-cn.com/problems/reverse-string-ii/solution/541-fan-zhuan-zi-fu-chuan-ii-by-tonngw-8iyn/)
-- [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) [题解](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/jian-zhi-offer-05-ti-huan-kong-ge-by-ton-wne9/)
-- [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) [题解](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/151-fan-zhuan-zi-fu-chuan-li-de-dan-ci-b-ifvu/)
-- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [题解](https://leetcode-cn.com/problems/reverse-linked-list/solution/206-fan-zhuan-lian-biao-by-tonngw-brl7/)
-- [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) [题解](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c2s0/)
-- [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) [题解](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/solution/si-lu-qing-xi-dai-ma-jian-ji-de-xie-fa-m-1pjx/)
-- [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) [题解](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/142-huan-xing-lian-biao-ii-by-tonngw-uem5/)
-- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) [题解](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-by-tonngw-2gsc/)
-- [15. 三数之和](https://leetcode-cn.com/problems/3sum/) [题解](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-by-tonngw-cs4b/)
-- [18. 四数之和](https://leetcode-cn.com/problems/4sum/) [题解](https://leetcode-cn.com/problems/4sum/solution/18-si-shu-zhi-he-by-tonngw-fvqc/)
+- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) 「[题解](https://leetcode-cn.com/problems/remove-element/solution/27-yi-chu-yuan-su-by-tonngw-6xwn/)」
+- [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) 「[题解](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/solution/26-shan-chu-you-xu-shu-zu-zhong-de-zhong-n4n7/)」
+- [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) 「[题解](https://leetcode-cn.com/problems/move-zeroes/solution/283-yi-dong-ling-by-tonngw-x0zd/)」
+- [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) 「[题解](https://leetcode-cn.com/problems/backspace-string-compare/solution/844-bi-jiao-han-tui-ge-de-zi-fu-chuan-by-rw53/)」
+- [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) 「[题解](https://leetcode-cn.com/problems/squares-of-a-sorted-array/solution/977-you-xu-shu-zu-de-ping-fang-by-tonngw-r0ba/)」
+- [541. 反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) 「[题解](https://leetcode-cn.com/problems/reverse-string-ii/solution/541-fan-zhuan-zi-fu-chuan-ii-by-tonngw-8iyn/)」
+- [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) 「[题解](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/jian-zhi-offer-05-ti-huan-kong-ge-by-ton-wne9/)」
+- [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) 「[题解](https://leetcode-cn.com/problems/reverse-words-in-a-string/solution/151-fan-zhuan-zi-fu-chuan-li-de-dan-ci-b-ifvu/)」
+- [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) 「[题解](https://leetcode-cn.com/problems/reverse-linked-list/solution/206-fan-zhuan-lian-biao-by-tonngw-brl7/)」
+- [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) 「[题解](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/19-shan-chu-lian-biao-de-dao-shu-di-n-ge-c2s0/)」
+- [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) 「[题解](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/solution/si-lu-qing-xi-dai-ma-jian-ji-de-xie-fa-m-1pjx/)」
+- [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) 「[题解](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/142-huan-xing-lian-biao-ii-by-tonngw-uem5/)」
+- [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) 「[题解](https://leetcode-cn.com/problems/linked-list-cycle/solution/141-huan-xing-lian-biao-by-tonngw-2gsc/)」
+- [15. 三数之和](https://leetcode-cn.com/problems/3sum/) 「[题解](https://leetcode-cn.com/problems/3sum/solution/15-san-shu-zhi-he-by-tonngw-cs4b/)」
+- [18. 四数之和](https://leetcode-cn.com/problems/4sum/) 「[题解](https://leetcode-cn.com/problems/4sum/solution/18-si-shu-zhi-he-by-tonngw-fvqc/)」
 
 ## 栈与队列
 
-- [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) [题解](https://leetcode-cn.com/problems/implement-queue-using-stacks/solution/232-yong-zhan-shi-xian-dui-lie-by-tonngw-4iv3/)
-- [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) [题解](https://leetcode-cn.com/problems/implement-stack-using-queues/solution/225-yong-dui-lie-shi-xian-zhan-by-tonngw-6be1/)
-- [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) [题解](https://leetcode-cn.com/problems/valid-parentheses/solution/si-lu-qing-xi-dai-ma-jian-ji-de-xie-fa-2-e83j/)
-- [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) [题解](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/solution/1047-shan-chu-zi-fu-chuan-zhong-de-suo-y-5ehq/)
-- [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) [题解](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/solution/150-ni-bo-lan-biao-da-shi-qiu-zhi-by-ton-586i/)
-- [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) [题解](https://leetcode-cn.com/problems/sliding-window-maximum/solution/239-hua-dong-chuang-kou-zui-da-zhi-by-to-aac7/)
-- [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) [题解](https://leetcode-cn.com/problems/top-k-frequent-elements/solution/347-qian-k-ge-gao-pin-yuan-su-by-tonngw-a12g/)
+- [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) 「[题解](https://leetcode-cn.com/problems/implement-queue-using-stacks/solution/232-yong-zhan-shi-xian-dui-lie-by-tonngw-4iv3/)」
+- [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) 「[题解](https://leetcode-cn.com/problems/implement-stack-using-queues/solution/225-yong-dui-lie-shi-xian-zhan-by-tonngw-6be1/)」
+- [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) 「[题解](https://leetcode-cn.com/problems/valid-parentheses/solution/si-lu-qing-xi-dai-ma-jian-ji-de-xie-fa-2-e83j/)」
+- [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) 「[题解](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/solution/1047-shan-chu-zi-fu-chuan-zhong-de-suo-y-5ehq/)」
+- [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) 「[题解](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/solution/150-ni-bo-lan-biao-da-shi-qiu-zhi-by-ton-586i/)」
+- [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) 「[题解](https://leetcode-cn.com/problems/sliding-window-maximum/solution/239-hua-dong-chuang-kou-zui-da-zhi-by-to-aac7/)」
+- [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) 「[题解](https://leetcode-cn.com/problems/top-k-frequent-elements/solution/347-qian-k-ge-gao-pin-yuan-su-by-tonngw-a12g/)」
 
 ## 二叉树
 
@@ -213,3 +213,83 @@
 ### 其他
 
 - [134. 加油站](https://leetcode-cn.com/problems/gas-station/)「[题解](https://leetcode-cn.com/problems/gas-station/solution/134-jia-you-zhan-by-tonngw-28hj/)」
+
+## 动态规划
+
+### 动态规划基础
+
+- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) 「[题解](https://leetcode-cn.com/problems/fibonacci-number/solution/509-fei-bo-na-qi-shu-by-tonngw-56bq/)」
+
+- [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) 「[题解](https://leetcode-cn.com/problems/climbing-stairs/solution/70-pa-lou-ti-wan-quan-bei-bao-fei-bo-na-p7wwt/)」
+
+- [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) 「[题解](https://leetcode-cn.com/problems/min-cost-climbing-stairs/solution/746-shi-yong-zui-xiao-hua-fei-pa-lou-ti-mf1mi/)」
+- [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)「[题解](https://leetcode-cn.com/problems/unique-paths/solution/62-bu-tong-lu-jing-by-tonngw-fczx/)」
+
+- [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)「[题解](https://leetcode-cn.com/problems/unique-paths-ii/solution/63-bu-tong-lu-jing-ii-by-tonngw-tc06/)」
+
+- [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)「[题解](https://leetcode-cn.com/problems/integer-break/solution/343-zheng-shu-chai-fen-by-tonngw-jped/)」
+
+- [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)「[题解](https://leetcode-cn.com/problems/unique-binary-search-trees/solution/dong-tai-gui-hua-xiang-jie-96-bu-tong-de-uvf4/)」
+
+### 背包问题
+
+- [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)「[题解](https://leetcode-cn.com/problems/partition-equal-subset-sum/solution/416-fen-ge-deng-he-zi-ji-by-tonngw-1w3h/)」
+- [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)「[题解](https://leetcode-cn.com/problems/last-stone-weight-ii/solution/1049-zui-hou-yi-kuai-shi-tou-de-zhong-li-8vf9/)」
+- [494. 目标和](https://leetcode-cn.com/problems/target-sum/)「[题解](https://leetcode-cn.com/problems/target-sum/solution/494-mu-biao-he-by-tonngw-nmoe/)」
+- [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)「[题解](https://leetcode-cn.com/problems/ones-and-zeroes/solution/74-yi-he-ling-er-wei-fei-yong-de-01-bei-aqpd8/)」
+- [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)「[题解](https://leetcode-cn.com/problems/coin-change-2/solution/518-ling-qian-dui-huan-iiwan-quan-bei-ba-68wd/)」
+- [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)「[题解](https://leetcode-cn.com/problems/combination-sum-iv/solution/377-zu-he-zong-he-ivwan-quan-bei-bao-wen-f0rn/)」
+- [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)「[题解](https://leetcode-cn.com/problems/coin-change/solution/322-ling-qian-dui-huan-by-tonngw-he5h/)」
+- [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)「[题解](https://leetcode-cn.com/problems/perfect-squares/solution/279-wan-quan-ping-fang-shu-wan-quan-bei-55juk/)」
+- [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)「[题解](https://leetcode-cn.com/problems/word-break/solution/139-dan-ci-chai-fen-by-tonngw-jiaf/)」
+
+### 打家劫舍系列问题
+
+- [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)「[题解](https://leetcode-cn.com/problems/house-robber/solution/198-da-jia-jie-she-by-tonngw-ajbc/)」
+- [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)「[题解](https://leetcode-cn.com/problems/house-robber-ii/solution/213-da-jia-jie-she-ii-by-tonngw-pfln/)」
+- [337. 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/)「[题解](https://leetcode-cn.com/problems/house-robber-iii/solution/337-da-jia-jie-she-iii-by-tonngw-mg1f/)」
+
+### 股票系列问题
+
+- [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/by-tonngw-ky6p/)」
+
+- [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/solution/123-mai-mai-gu-piao-de-zui-jia-shi-ji-ii-q6vh/)」
+- [188. 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/solution/zhuang-tai-ji-dpxiang-jie-188-mai-mai-gu-po3i/)」
+- [09. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/zhuang-tai-ji-dp-309-zui-jia-mai-mai-gu-dylw4/)」
+- [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)「[题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solution/zhuang-tai-ji-dp-wen-ti-714-mai-mai-gu-p-dgos/)」
+
+### 子序列系列问题
+
+- [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)「[题解](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/300-zui-chang-di-zeng-zi-xu-lie-by-tonng-0mvw/)」
+- [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)「[题解](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/solution/674-zui-chang-lian-xu-di-zeng-xu-lie-by-0ffva/)」
+- [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)「[题解](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/solution/718-zui-chang-zhong-fu-zi-shu-zu-by-tonn-e57a/)」
+- [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)「[题解](https://leetcode-cn.com/problems/longest-common-subsequence/solution/1143-zui-chang-gong-gong-zi-xu-lie-by-to-2hul/)」
+- [1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/)「[题解](https://leetcode-cn.com/problems/uncrossed-lines/solution/1035-bu-xiang-jiao-de-xian-by-tonngw-999m/)」
+- [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)「[题解](https://leetcode-cn.com/problems/maximum-subarray/solution/53-zui-da-zi-xu-he-by-tonngw-9jx5/)」
+- [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)「[题解](https://leetcode-cn.com/problems/is-subsequence/solution/392-pan-duan-zi-xu-lie-by-tonngw-slxn/)」
+- [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)「[题解](https://leetcode-cn.com/problems/distinct-subsequences/solution/115-bu-tong-de-zi-xu-lie-by-tonngw-a77n/)」
+- [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)「[题解](https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/583-liang-ge-zi-fu-chuan-de-shan-chu-cao-2kg9/)」
+- [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/)「[题解](https://leetcode-cn.com/problems/edit-distance/solution/72-bian-ji-ju-chi-by-tonngw-2jch/)」
+- [647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)「[题解](https://leetcode-cn.com/problems/palindromic-substrings/solution/647-hui-wen-zi-chuan-by-tonngw-4ftv/)」
+- [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)「[题解](https://leetcode-cn.com/problems/longest-palindromic-subsequence/solution/516-zui-chang-hui-wen-zi-xu-lie-by-tonng-p32p/)」
+- [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)「[题解](https://leetcode-cn.com/problems/longest-palindromic-substring/solution/5-zui-chang-hui-wen-zi-chuan-by-tonngw-1i6u/)」
+
+## 单调栈
+
+- [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)「[题解](https://leetcode-cn.com/problems/daily-temperatures/solution/739-mei-ri-wen-du-by-tonngw-g24w/)」
+- [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)「[题解](https://leetcode-cn.com/problems/next-greater-element-i/solution/496-xia-yi-ge-geng-da-yuan-su-i-by-tonng-eae4/)」
+- [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)「[题解](https://leetcode-cn.com/problems/next-greater-element-ii/solution/503-xia-yi-ge-geng-da-yuan-su-ii-by-tonn-m9p6/)」
+- [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)「[题解](https://leetcode-cn.com/problems/trapping-rain-water/solution/42-jie-yu-shui-san-ci-xian-xing-sao-miao-15ks/)」
+- [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)「[题解](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/solution/84-zhu-zhuang-tu-zhong-zui-da-de-ju-xing-gjcg/)」
+
+## 滑动窗口问题
+
+- [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)「[题解](https://leetcode-cn.com/problems/sliding-window-maximum/solution/239-hua-dong-chuang-kou-zui-da-zhi-by-to-aac7/)」
+- [918. 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)「[题解](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/solution/918-huan-xing-zi-shu-zu-de-zui-da-he-ton-9d7b/)」
+
+- [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)「[题解](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution/by-tonngw-vu6h/)」
+- [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)「[题解](https://leetcode-cn.com/problems/minimum-window-substring/solution/hua-dong-chuang-kou-suan-fa-76-zui-xiao-3y39p/)」
+- [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)「[题解](https://leetcode-cn.com/problems/minimum-size-subarray-sum/solution/209-chang-du-zui-xiao-de-zi-shu-zu-by-to-3ryl/)」
+- [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)「[题解](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/438-zhao-dao-zi-fu-chuan-zhong-suo-you-z-q79l/)」
+- [904. 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)「[题解](https://leetcode-cn.com/problems/fruit-into-baskets/solution/904-shui-guo-cheng-lan-by-tonngw-yr8e/)」
+
