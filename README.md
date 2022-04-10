@@ -7,14 +7,14 @@
 1. 题解中的代码实现语言是 C++，尽量保证每道题目使用最优的写法。
 2. 题解是自己学习过程中认真写的，并非搬运，主要记录题目的核心实现步骤。
 
-目前已有题单：
+**目前已有题单**：
 
 1. [代码随想录]()
-2. [LeetCode Hot 100](./LeetCode Hot 100.md)
+2. [LeetCode Hot 100](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md)
 
 TODO：
 
-- 完善已有题单
+- 完善 LeetCode Hot 100，添加算法分类版。
 - 之后可能还会更新剑指 offer，牛客网面试必刷 TOP 101 等题单
 
 ## 数组
