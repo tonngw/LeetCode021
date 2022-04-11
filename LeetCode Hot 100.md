@@ -146,7 +146,7 @@
 | [560. 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | [题解](https://leetcode-cn.com/problems/subarray-sum-equals-k/solution/by-tonngw-f2g3/) |
 | [581. 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | [题解](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/solution/by-tonngw-wedk/) |
 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | [题解](https://leetcode-cn.com/problems/merge-two-binary-trees/solution/617-he-bing-er-cha-shu-by-tonngw-aizw/) |
-| [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | 题解                                                         |
+| [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | [题解](https://leetcode-cn.com/problems/task-scheduler/solution/by-tonngw-f92t/) |
 | [647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | [题解](https://leetcode-cn.com/problems/palindromic-substrings/solution/647-hui-wen-zi-chuan-by-tonngw-4ftv/) |
 | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures) | [题解](https://leetcode-cn.com/problems/daily-temperatures/solution/739-mei-ri-wen-du-by-tonngw-g24w/) |
 
