@@ -36,12 +36,12 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [46. 全排列](https://leetcode-cn.com/problems/permutations)  | [题解](https://leetcode-cn.com/problems/permutations/solution/46-quan-pai-lie-by-tonngw-08i3/) |
 | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image) | [题解](https://leetcode-cn.com/problems/rotate-image/solution/by-tonngw-yncd/) |
-| [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | 题解                                                         |
+| [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | [题解](https://leetcode-cn.com/problems/group-anagrams/solution/by-tonngw-bqjz/) |
 | [53. 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | [题解](https://leetcode-cn.com/problems/maximum-subarray/solution/53-zui-da-zi-xu-he-by-tonngw-9jx5/) |
 | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game)   | [题解](https://leetcode-cn.com/problems/jump-game/solution/55-tiao-yue-you-xi-by-tonngw-ec5n/) |
 | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals) | [题解](https://leetcode-cn.com/problems/merge-intervals/solution/tong-su-yi-dong-xiang-jie-tan-xin-jing-d-ielv/) |
 | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths) | [题解](https://leetcode-cn.com/problems/unique-paths/solution/62-bu-tong-lu-jing-by-tonngw-fczx/) |
-| [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | 题解                                                         |
+| [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | [题解](https://leetcode-cn.com/problems/minimum-path-sum/solution/by-tonngw-egbd/) |
 | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs) | [题解](https://leetcode-cn.com/problems/climbing-stairs/solution/70-pa-lou-ti-wan-quan-bei-bao-fei-bo-na-p7wwt/) |
 | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance) | [题解](https://leetcode-cn.com/problems/edit-distance/solution/72-bian-ji-ju-chi-by-tonngw-2jch/) |
 
@@ -52,7 +52,7 @@
 | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors) | [题解](https://leetcode-cn.com/problems/sort-colors/solution/75-yan-se-fen-lei-by-tonngw-v7fl/) |
 | [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | [题解](https://leetcode-cn.com/problems/minimum-window-substring/solution/hua-dong-chuang-kou-suan-fa-76-zui-xiao-3y39p/) |
 | [78. 子集](https://leetcode-cn.com/problems/subsets)         | [题解](https://leetcode-cn.com/problems/subsets/solution/78-zi-ji-by-tonngw-bhjq/) |
-| [79. 单词搜索](https://leetcode-cn.com/problems/word-search) | 题解                                                         |
+| [79. 单词搜索](https://leetcode-cn.com/problems/word-search) | [题解](https://leetcode-cn.com/problems/word-search/solution/by-tonngw-9sc2/) |
 | [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) | [题解](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/solution/84-zhu-zhuang-tu-zhong-zui-da-de-ju-xing-gjcg/) |
 | [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle) | [题解](https://leetcode-cn.com/problems/maximal-rectangle/solution/by-tonngw-8s1f/) |
 | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | [题解](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/solution/94-er-cha-shu-de-zhong-xu-bian-li-by-ton-6i82/) |
@@ -67,7 +67,7 @@
 | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | [题解](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/102-er-cha-shu-de-ceng-xu-bian-li-by-ton-zt9s/) |
 | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [题解](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/solution/104-er-cha-shu-de-zui-da-shen-du-by-tonn-zen4/) |
 | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [题解](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solution/105-cong-qian-xu-yu-zhong-xu-bian-li-xu-wgoxg/) |
-| [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | 题解                                                         |
+| [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | [题解](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/solution/by-tonngw-m6ek/) |
 | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/solution/by-tonngw-ky6p/) |
 | [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | [题解](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/solution/124-er-cha-shu-zhong-de-zui-da-lu-jing-h-v7ms/) |
 | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence) | [题解](https://leetcode-cn.com/problems/longest-consecutive-sequence/solution/by-tonngw-k87f/) |
@@ -113,7 +113,7 @@
 | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares) | [题解](https://leetcode-cn.com/problems/perfect-squares/solution/by-tonngw-37c0/) |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes)  | [题解](https://leetcode-cn.com/problems/move-zeroes/solution/283-yi-dong-ling-by-tonngw-x0zd/) |
 | [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | [题解](https://leetcode-cn.com/problems/find-the-duplicate-number/solution/by-tonngw-v1x5/) |
-| [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) | 题解                                                         |
+| [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) | [题解](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/solution/by-tonngw-rk2y/) |
 | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [题解](https://leetcode-cn.com/problems/longest-increasing-subsequence/solution/300-zui-chang-di-zeng-zi-xu-lie-by-tonng-0mvw/) |
 | [301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses) | [题解](https://leetcode-cn.com/problems/remove-invalid-parentheses/solution/by-tonngw-w2sl/) |
 | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [题解](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/solution/zhuang-tai-ji-dp-309-zui-jia-mai-mai-gu-dylw4/) |
