@@ -18,10 +18,10 @@
 
 1. [代码随想录](https://github.com/tonngw/LeetCode021/blob/master/%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95.md)
 2. [LeetCode Hot 100 顺序版](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md)
+3. [LeetCode Hot 100 分类版](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md)
 
 TODO：
 
-- 添加 LeetCode Hot 100 算法分类版。
 - 之后可能还会更新剑指 offer，牛客网面试必刷 TOP 101 等题单
 - 为每个题单添加传送门，从算法标签到转到文档具体位置。
 
