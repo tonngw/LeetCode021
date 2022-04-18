@@ -2,16 +2,16 @@
 
 #### 传送门
 
-[1~10](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#110)
-[11~20](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#1120)
-[21~30](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#2130)
-[31~40](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#3140)
-[41~50](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#4150)
-[51~60](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#5160)
-[61~70](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#6170)
-[71~80](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#7180)
-[81~90](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#8190)
-[91~100](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#91100)
+- [1~10](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#110)
+- [11~20](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#1120)
+- [21~30](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#2130)
+- [31~40](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#3140)
+- [41~50](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#4150)
+- [51~60](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#5160)
+- [61~70](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#6170)
+- [71~80](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#7180)
+- [81~90](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#8190)
+- [91~100](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md#91100)
 
 ### 1~10
 
