@@ -1,4 +1,22 @@
 ## LeetCode Hot 100 分类版
+
+#### 传送门
+
+- [数组](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E6%95%B0%E7%BB%84)
+- [位运算](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E4%BD%8D%E8%BF%90%E7%AE%97)
+- [二分查找](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE)
+- [双指针](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%8F%8C%E6%8C%87%E9%92%88)
+- [链表](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E9%93%BE%E8%A1%A8)
+- [栈和队列](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97)
+- [哈希表](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%93%88%E5%B8%8C%E8%A1%A8)
+- [树](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E6%A0%91)
+- [图](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%9B%BE)
+- [回溯和 DFS](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%9B%9E%E6%BA%AF%E5%92%8C-dfs)
+- [BFS](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#bfs)
+- [动态规划](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
+- [贪心](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E8%B4%AA%E5%BF%83)
+- [单调栈](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%8D%95%E8%B0%83%E6%A0%88)
+
 ### 数组
 
 | 题目 | 题解 |
@@ -102,6 +120,31 @@
 | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | [题解](https://leetcode-cn.com/problems/merge-two-binary-trees/solution/617-he-bing-er-cha-shu-by-tonngw-aizw/) |
 | [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | [题解](https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/by-tonngw-i32p/) |
 
+### 图
+
+| 题目 | 题解 |
+| ---- | ---- |
+| [399. 除法求值](https://leetcode-cn.com/problems/evaluate-division) | [题解](https://leetcode-cn.com/problems/evaluate-division/solution/by-tonngw-fp8u/) |
+
+
+### 回溯和 DFS
+
+| 题目 | 题解 |
+| ---- | ---- |
+| [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | [题解](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/17-dian-hua-hao-ma-de-zi-mu-zu-he-by-ton-fwvm/) |
+| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | [题解](https://leetcode-cn.com/problems/generate-parentheses/solution/22-gua-hao-sheng-cheng-hui-su-mei-ju-suo-igx9/) |
+| [39. 组合总和](https://leetcode-cn.com/problems/combination-sum) | [题解](https://leetcode-cn.com/problems/combination-sum/solution/39-zu-he-zong-he-by-tonngw-oqyt/) |
+| [46. 全排列](https://leetcode-cn.com/problems/permutations)  | [题解](https://leetcode-cn.com/problems/permutations/solution/46-quan-pai-lie-by-tonngw-08i3/) |
+| [78. 子集](https://leetcode-cn.com/problems/subsets)         | [题解](https://leetcode-cn.com/problems/subsets/solution/78-zi-ji-by-tonngw-bhjq/) |
+| [79. 单词搜索](https://leetcode-cn.com/problems/word-search) | [题解](https://leetcode-cn.com/problems/word-search/solution/by-tonngw-9sc2/) |
+| [301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses) | [题解](https://leetcode-cn.com/problems/remove-invalid-parentheses/solution/by-tonngw-w2sl/) |
+
+### BFS
+
+| 题目 | 题解 |
+| ---- | ---- |
+| [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | [题解](https://leetcode-cn.com/problems/number-of-islands/solution/200-dao-yu-shu-liang-by-tonngw-zqm2/) |
+| [207. 课程表](https://leetcode-cn.com/problems/course-schedule) | [题解](https://leetcode-cn.com/problems/course-schedule/solution/by-tonngw-gi4x/) |
 
 ### 动态规划
 
@@ -136,32 +179,6 @@
 | [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | [题解](https://leetcode-cn.com/problems/task-scheduler/solution/by-tonngw-f92t/) |
 | [581. 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | [题解](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/solution/by-tonngw-wedk/) |
 | [253. 会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii)「会员题」 | 题解                                                         |
-
-### 回溯和 DFS
-
-| 题目 | 题解 |
-| ---- | ---- |
-| [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | [题解](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/solution/17-dian-hua-hao-ma-de-zi-mu-zu-he-by-ton-fwvm/) |
-| [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | [题解](https://leetcode-cn.com/problems/generate-parentheses/solution/22-gua-hao-sheng-cheng-hui-su-mei-ju-suo-igx9/) |
-| [39. 组合总和](https://leetcode-cn.com/problems/combination-sum) | [题解](https://leetcode-cn.com/problems/combination-sum/solution/39-zu-he-zong-he-by-tonngw-oqyt/) |
-| [46. 全排列](https://leetcode-cn.com/problems/permutations)  | [题解](https://leetcode-cn.com/problems/permutations/solution/46-quan-pai-lie-by-tonngw-08i3/) |
-| [78. 子集](https://leetcode-cn.com/problems/subsets)         | [题解](https://leetcode-cn.com/problems/subsets/solution/78-zi-ji-by-tonngw-bhjq/) |
-| [79. 单词搜索](https://leetcode-cn.com/problems/word-search) | [题解](https://leetcode-cn.com/problems/word-search/solution/by-tonngw-9sc2/) |
-| [301. 删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses) | [题解](https://leetcode-cn.com/problems/remove-invalid-parentheses/solution/by-tonngw-w2sl/) |
-
-### BFS
-
-| 题目 | 题解 |
-| ---- | ---- |
-| [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | [题解](https://leetcode-cn.com/problems/number-of-islands/solution/200-dao-yu-shu-liang-by-tonngw-zqm2/) |
-| [207. 课程表](https://leetcode-cn.com/problems/course-schedule) | [题解](https://leetcode-cn.com/problems/course-schedule/solution/by-tonngw-gi4x/) |
-
-
-### 图
-
-| 题目 | 题解 |
-| ---- | ---- |
-| [399. 除法求值](https://leetcode-cn.com/problems/evaluate-division) | [题解](https://leetcode-cn.com/problems/evaluate-division/solution/by-tonngw-fp8u/) |
 
 ### 单调栈
 
