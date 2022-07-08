@@ -19,13 +19,14 @@
 1. [代码随想录](https://github.com/tonngw/LeetCode021/blob/master/%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95.md)
 2. [LeetCode Hot 100 顺序版](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md)
 3. [LeetCode Hot 100 分类版](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md)
+4. 剑指 Offer 顺序版
 
 TODO：
 
 - [x] 代码随想录题单
 - [x] LeetCode Hot 100 题单 
 - [x] 为每个题单添加传送门，从算法标签到转到文档具体位置。
-- [ ] 剑指 Offer 题单
+- [x] 剑指 Offer 题单
 - [ ] 牛客网面试必刷 TOP 101 题单
 - [ ] CodeTop Hot 100 题单
 - [ ] 排序算法总结（内部排序、外部排序）
