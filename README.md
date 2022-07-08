@@ -20,7 +20,7 @@
 2. [LeetCode Hot 100 顺序版](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100.md)
 3. [LeetCode Hot 100 分类版](https://github.com/tonngw/LeetCode021/blob/master/LeetCode%20Hot%20100%20%E5%88%86%E7%B1%BB%E7%89%88.md)
 4. [剑指 Offer 顺序版](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer.md)
-5. 剑指 Offer 分类版
+5. [剑指 Offer 分类版](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md)
 
 TODO：
 

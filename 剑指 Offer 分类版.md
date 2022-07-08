@@ -2,13 +2,20 @@
 
 #### 传送门
 
-- [3~10](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer.md#310)
-- [11~20](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer.md#1120)
-- [21~30](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer.md#2130)
-- [31~40](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer.md#3140)
-- [41~50](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer.md#4150)
-- [51~60](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer.md#5160)
-- [61~70](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer.md#6170)
+- [链表](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E9%93%BE%E8%A1%A8)
+- [栈与队列](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97)
+- [二叉树](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E4%BA%8C%E5%8F%89%E6%A0%91)
+- [哈希表](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%93%88%E5%B8%8C%E8%A1%A8)
+- [堆 (优先队列)](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%A0%86-%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97)
+- [数学](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E6%95%B0%E5%AD%A6)
+- [模拟](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E6%A8%A1%E6%8B%9F)
+- [排序](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E6%8E%92%E5%BA%8F)
+- [位运算](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E4%BD%8D%E8%BF%90%E7%AE%97)
+- [二分](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E4%BA%8C%E5%88%86)
+- [快速幂](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%BF%AB%E9%80%9F%E5%B9%82)
+- [双指针](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%8F%8C%E6%8C%87%E9%92%88)
+- [搜索与回溯](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E6%90%9C%E7%B4%A2%E4%B8%8E%E5%9B%9E%E6%BA%AF)
+- [动态规划](https://github.com/tonngw/LeetCode021/blob/master/%E5%89%91%E6%8C%87%20Offer%20%E5%88%86%E7%B1%BB%E7%89%88.md#%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
 
 ### 链表
 
