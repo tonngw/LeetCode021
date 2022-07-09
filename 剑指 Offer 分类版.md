@@ -116,7 +116,7 @@
 | [剑指 Offer 15. 二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof) | [题解](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/solution/by-tonngw-an21/) |
 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [题解](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/solution/by-tonngw-k6ru/) |
 | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [题解](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/solution/by-tonngw-hbkl/) |
-| [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof) | [题解](https://leetcode.cn/problems/qiu-12n-lcof/solution/leetcode021-xi-lie-ti-jie-jian-zhi-offer-4rdt//) |
+| [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof) | [题解](https://leetcode.cn/problems/qiu-12n-lcof/solution/leetcode021-xi-lie-ti-jie-jian-zhi-offer-4rdt/) |
 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [题解](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/solution/by-tonngw-cfp1/) |
 
 ### 二分

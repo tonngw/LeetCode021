@@ -112,7 +112,7 @@
 | [剑指 Offer 61. 扑克牌中的顺子](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof) | [题解](https://leetcode.cn/problems/bu-ke-pai-zhong-de-shun-zi-lcof/solution/leetcode021-xi-lie-ti-jie-by-tonngw-uasl/) |
 | [剑指 Offer 62. 圆圈中最后剩下的数字](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [题解](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/jian-zhi-offer-62-yuan-quan-zhong-zui-ho-fr55/) |
 | [剑指 Offer 63. 股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof) | [题解](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/solution/jian-zhi-offer-63-gu-piao-de-zui-da-li-r-e10y/) |
-| [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof) | [题解](https://leetcode.cn/problems/qiu-12n-lcof/solution/leetcode021-xi-lie-ti-jie-jian-zhi-offer-4rdt//) |
+| [剑指 Offer 64. 求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof) | [题解](https://leetcode.cn/problems/qiu-12n-lcof/solution/leetcode021-xi-lie-ti-jie-jian-zhi-offer-4rdt/) |
 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [题解](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/solution/by-tonngw-cfp1/) |
 | [剑指 Offer 66. 构建乘积数组](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof) | [题解](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/solution/by-tonngw-8jp7/) |
 | [剑指 Offer 67. 把字符串转换成整数](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/) | [题解](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/solution/by-tonngw-lzqz/) |
