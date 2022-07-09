@@ -104,9 +104,9 @@
 
 | 题目                                                         | 题解                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode.cn/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [题解](https://leetcode.cn/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/by-tonngw-5h98/) |
+| [剑指 Offer 45. 把数组排成最小的数](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)「自定义比较器」 | [题解](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/by-tonngw-vbnd/) |
 | [剑指 Offer 49. 丑数](https://leetcode.cn/problems/chou-shu-lcof)「三路归并」 | [题解](https://leetcode.cn/problems/chou-shu-lcof/solution/by-tonngw-f4wy/) |
-| [剑指 Offer 51. 数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof) 「归并排序」| [题解](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/by-tonngw-1rtb/) |
+| [剑指 Offer 51. 数组中的逆序对](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof) 「归并排序」 | [题解](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/solution/by-tonngw-1rtb/) |
 
 
 ### 位运算
