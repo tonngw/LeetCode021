@@ -347,3 +347,6 @@ Tips：
 - [代码随想录](https://programmercarl.com/)
 - [AcWing LeetCode 究极班](https://www.acwing.com/activity/content/31/)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tonngw/LeetCode021&type=Date)](https://star-history.com/#tonngw/LeetCode021&Date)
